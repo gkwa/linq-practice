@@ -1,0 +1,14 @@
+<books>
+  <book>
+    <title>Pro LINQ: Language Integrated Query in C#2010</title>
+    <author>Joe Rattz</author>
+  </book>
+  <book>
+    <title>Pro .NET 4.0 Parallel Programming in C#</title>
+    <author>Adam Freeman</author>
+  </book>
+  <book>
+    <title>Pro VB 2010 and the .NET 4.0 Platform</title>
+    <author>Andrew Troelsen</author>
+  </book>
+</books>
