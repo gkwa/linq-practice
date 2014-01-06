@@ -1,3 +1,6 @@
 ConsoleApplication2/obj/
 ConsoleApplication2/bin/
 ConsoleApplication2/publish/
+
+# msbuild.exe generates this
+ConsoleApplication2.sln.metaproj.tmp
