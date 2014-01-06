@@ -4,3 +4,8 @@ ConsoleApplication2/publish/
 
 # msbuild.exe generates this
 ConsoleApplication2.sln.metaproj.tmp
+
+nmap_query/obj/
+nmap_query/bin/
+nmap_query/publish/
+nmap_query/nmap_query_TemporaryKey.pfx
